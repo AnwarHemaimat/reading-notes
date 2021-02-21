@@ -9,8 +9,9 @@
 ### Anwar Hemaimat
 
 
-| Mindset      | https://anwarhemaimat.github.io/reading-notes/ |
+| Title      |Link |
 | ----------- | ----------- |
-| Markdown      | https://anwarhemaimat.github.io/reading-notes/       |
-| Git   | https://anwarhemaimat.github.io/reading-notes/        |
+| Mindset | [Mindset](Mindset)
+| Markdown      |   [Markdown](Markdown)   |
+| Git   | [Git](Git)       |
 
