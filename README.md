@@ -12,5 +12,9 @@ Here we are:
 3. Mistakes are an important part of the process.
 
 My name is Anwaar Homaimat 
+
 I work as a trainer in human development and a computer teacher.
-Contact me on E-male : Anwarhomaimat@gmail.com
+
+Contact me on E-male : 
+
+Anwarhomaimat@gmail.com
