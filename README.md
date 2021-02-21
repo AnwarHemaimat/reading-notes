@@ -1,4 +1,3 @@
-# reading-notes
 # The Growth Mindset
 Many times, as we got older, we have more questions, and we had many answers to the questions that had been plaguing us since childhood. T
 This is called the growth mindset.
