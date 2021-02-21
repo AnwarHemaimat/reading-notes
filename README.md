@@ -7,11 +7,10 @@
 
 * Facbook :
 ### Anwar Hemaimat
-<<<<<<< HEAD
+
 
 | Mindset      | https://anwarhemaimat.github.io/reading-notes/ |
 | ----------- | ----------- |
 | Markdown      | https://anwarhemaimat.github.io/reading-notes/       |
 | Git   | https://anwarhemaimat.github.io/reading-notes/        |
-=======
->>>>>>> origin
+
