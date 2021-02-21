@@ -10,3 +10,7 @@ Here we are:
 1. You don't know what you don't know.
 2. Skills are bulit, not born.
 3. Mistakes are an important part of the process.
+
+My name is Anwaar Homaimat 
+I work as a trainer in human development and a computer teacher.
+Contact me on E-male : Anwarhomaimat@gmail.com
