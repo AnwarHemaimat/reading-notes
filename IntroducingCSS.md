@@ -29,6 +29,6 @@ So:
 
 ### CSS rules usually appear in a separate document, although they may appear within an HTML page.    
 
-## Why uSe externaL StyLe SheetS?   
+## Why use externaL styLe sheets?   
 
 The external style sheet is generally used when you want to make changes on multiple pages. It is ideal for this condition because it facilitates you to change the look of the entire web site by changing just one file. It uses the <link> tag on every pages and the <link> tag should be put inside the head section.
